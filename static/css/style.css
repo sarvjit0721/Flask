@@ -1,5 +1,5 @@
 body {
-    background: linear-gradient(to top, #33ccff 0%, #ff99cc 100%);
+    background-color:rgba(215, 240, 112, 0.651);
   }
   body * {
     box-sizing: border-box;
@@ -8,7 +8,7 @@ body {
   .header {
     background-color: #327a81;
     color: white;
-    font-size: 1.5em;
+    font-size:1.5em;
     padding: 1rem;
     text-align: center;
     text-transform: uppercase;
@@ -160,5 +160,6 @@ body {
       box-shadow: none;
       overflow: visible;
     }
+   
   }
   
